@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Docker.Reactive.Pull
+namespace Docker.Reactive.Pull.Api
 {
     public class Program
     {

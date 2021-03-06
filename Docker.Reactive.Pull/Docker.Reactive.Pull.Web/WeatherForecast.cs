@@ -1,6 +1,6 @@
 using System;
 
-namespace Docker.Reactive.Pull
+namespace Docker.Reactive.Pull.Web
 {
     public class WeatherForecast
     {
